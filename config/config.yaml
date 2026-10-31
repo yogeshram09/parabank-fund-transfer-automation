@@ -1,0 +1,7 @@
+base_url: "https://parabank.parasoft.com/parabank"
+browser: "chrome"
+headless: false
+wait_timeout: 15
+page_load_timeout: 30
+transfer_amount: 50.00
+account_type: "SAVINGS"
