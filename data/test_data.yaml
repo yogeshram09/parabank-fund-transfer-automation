@@ -1,0 +1,4 @@
+# Customer identity/address fields are generated uniquely by Faker each run.
+# Use a demo-only password; override it here for your local test environment.
+registration:
+  password: "Test@12345"
